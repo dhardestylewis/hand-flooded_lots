@@ -24,4 +24,5 @@ There is 1 output.
 
 An example of this output is on the right-hand side of the image below. This was presented by former AAAI President [Yolanda Gil](https://viterbi.usc.edu/directory/faculty/Gil/Yolanda) during her outgoing President's speech at [AAAI 2020](https://aaai.org/Conferences/AAAI-20/) in February. On the left-hand side is a [buyout map of the same area](https://www.austintexas.gov/department/williamson-creek-flood-risk-reduction) as produced by hand by the City of Austin. Prof Gil's brings up this topic at [39:18 in this recorded video of her speech](https://vimeo.com/400177695). They are at [pp 13-15 of these slides presented at the conference](https://www.dropbox.com/scl/fi/0opj6ff7cjyh0gpc2ettm/HANDEdits_PA-MINT.pptx?dl=0&rlkey=70qk5cxlyz04qvr74uwedwj1d).
 ![Example outputs](https://github.com/dhardestylewis/hand-flooded_lots/blob/main/refs/hand-flooded_lots-comparison.png)
+
 It was also presented as part of [Dr Suzanne Pierce](https://www.tacc.utexas.edu/about/directory/suzanne-pierce)'s [keynote talk](https://csdms.colorado.edu/wiki/Presenters-0473) at [CSDMS 2020](https://csdms.colorado.edu/wiki/CSDMS_meeting_2020) in May.
